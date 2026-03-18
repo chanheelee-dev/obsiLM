@@ -1,0 +1,2 @@
+# obsiLM
+obsidian-based notebookLM
